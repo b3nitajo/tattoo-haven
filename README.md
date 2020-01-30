@@ -14,11 +14,11 @@ Using the MVC paradigm, we've create a database of employee information then use
 
 
 #### Technologies Used
-* Bulma
+* Bulma.css
 * Node.js
 * Handlebars
 * Google Calendar API
-* SQL
+* Sequelize
 
 #### How to view template?
 Visit the link below and view each profile page. Feel free to schedule an appointment or view current appointments.
